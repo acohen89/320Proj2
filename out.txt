@@ -1,0 +1,34 @@
+Index: 206 TAG: 121871 
+Inserted in cache for first time in index: 0
+Index: 206 TAG: 139 
+Inserted in cache for first time in index: 1
+Index: 206 TAG: 3910 
+Replaced 0, 0 now at the front
+Index: 206 TAG: 3532 
+Replaced 1, 1 now at the front
+Index: 206 TAG: 3919 
+Replaced 0, 0 now at the front
+Index: 206 TAG: 139 
+Replaced 1, 1 now at the front
+Index: 206 TAG: 139 
+ Found in cache at pos: 1, now at the front of queue
+Index: 206 TAG: 139 
+ Found in cache at pos: 1, now at the front of queue
+Index: 206 TAG: 3532 
+Replaced 1, 1 now at the front
+Index: 206 TAG: 3532 
+ Found in cache at pos: 1, now at the front of queue
+Index: 206 TAG: 3532 
+ Found in cache at pos: 1, now at the front of queue
+Index: 206 TAG: 3532 
+ Found in cache at pos: 1, now at the front of queue
+Index: 206 TAG: 3532 
+ Found in cache at pos: 1, now at the front of queue
+Index: 206 TAG: 3532 
+ Found in cache at pos: 1, now at the front of queue
+Index: 3 TAG: 3796 
+Inserted in cache for first time in index: 0
+Index: 3 TAG: 3796 
+Removed: 0 Found in cache at pos: 0, now at the front of queue
+Index: 3 TAG: 3796 
+Removed: 0 Found in cache at pos: 0, now at the front of queue
